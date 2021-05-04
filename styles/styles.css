@@ -2,10 +2,14 @@
 @import url(header/header.css);
 @import url(primary-logo/primary-logo.css);
 @import url(primary-navigation/primary-navigation.css);
+@import url(footer/footer.css);
+@import url(secondary-navigation/secondary-navigation.css);
+@import url(copyright/copyright.css);
+@import url(social-links/social-links.css);
 
 /* layout.css */
 .container{
-  width: 1168px;
+  width: 1170px;
   margin: 0 auto;
 }
 
@@ -14,4 +18,3 @@
   clear: both;
   content: "";
 }
-

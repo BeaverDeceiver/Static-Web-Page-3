@@ -1,0 +1,8 @@
+@import url(__designer-link/copyright__designer-link.css);
+@import url(__reference-link/copyright__reference-link.css);
+
+.copyright {
+    font-size: 14px;
+    line-height: 24px;
+    color: #767c7e;
+}
