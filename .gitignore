@@ -3,3 +3,6 @@
 
 # mock design
 mockup
+
+# cscomb config
+.csscomb.json
