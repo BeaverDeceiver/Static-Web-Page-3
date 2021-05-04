@@ -1,0 +1,7 @@
+@import url(__inner-container/header__inner-container.css);
+@import url(__logo-container/header__logo-container.css);
+@import url(__navigation-container/header__navigation-container.css);
+.header{
+    background: #202628;
+    font-family: "Fjalla One", sans-serif;
+}
