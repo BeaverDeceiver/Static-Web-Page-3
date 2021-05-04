@@ -1,0 +1,9 @@
+.primary-logo{
+    font-size: 25px;
+    line-height: 1em;
+    /* font-weight: 400; */
+    vertical-align: middle;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #e7e7e7;
+}

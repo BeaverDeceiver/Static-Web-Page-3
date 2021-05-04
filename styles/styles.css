@@ -1,0 +1,17 @@
+@import url(reset.css);
+@import url(header/header.css);
+@import url(primary-logo/primary-logo.css);
+@import url(primary-navigation/primary-navigation.css);
+
+/* layout.css */
+.container{
+  width: 1168px;
+  margin: 0 auto;
+}
+
+.clear-fix::after{
+  display: table;
+  clear: both;
+  content: "";
+}
+
