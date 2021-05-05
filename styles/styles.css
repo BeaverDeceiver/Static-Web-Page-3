@@ -6,6 +6,7 @@
 @import url(secondary-navigation/secondary-navigation.css);
 @import url(copyright/copyright.css);
 @import url(social-links/social-links.css);
+@import url(fonts.css);
 
 /* layout.css */
 .container{

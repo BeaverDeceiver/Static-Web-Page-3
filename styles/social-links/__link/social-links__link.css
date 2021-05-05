@@ -1,0 +1,13 @@
+.social-links__link {
+    font-size: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    /* circle background */
+    width: 43px;
+    height: 43px;
+    border-radius: 21.5px;
+    background: #e84c3d;
+    display: grid;
+    align-content: center;
+}
