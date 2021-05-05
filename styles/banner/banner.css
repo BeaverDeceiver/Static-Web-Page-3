@@ -1,8 +1,12 @@
 @import url(__arrow-item/banner__arrow-item.css);
 @import url(__arrow-list/banner__arrow-list.css);
 @import url(__inner-container/banner__inner-container.css);
+@import url(__caption/banner__caption.css);
+@import url(__caption-link/banner__caption-link.css);
+@import url(__caption-text/banner__caption-text.css);
 
 .banner {
-    height: 580px;
+    min-height: 580px;
     background: url(../../assets/background/banner-background_59.png), #666155;
+    font-family: "Fjalla One", sans-serif;
 }
