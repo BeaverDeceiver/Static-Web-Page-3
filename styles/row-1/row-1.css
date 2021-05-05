@@ -1,0 +1,6 @@
+@import url(__inner-container/row-1__inner-container.css);
+
+.row-1 {
+    display: table;
+    background-color: #e7e7e7;
+}
