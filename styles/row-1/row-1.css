@@ -1,6 +1,14 @@
 @import url(__inner-container/row-1__inner-container.css);
+@import url(__content-container/row-1__content-container.css);
+@import url(__content-icon/row-1__content_icon.css);
+@import url(__content-header/row-1__content-header.css);
+@import url(__content-paragraph/row-1__content-paragraph.css);
+@import url(__content-link/row-1__content-link.css);
+
 
 .row-1 {
-    display: table;
     background-color: #e7e7e7;
+    font-family: "Lato", sans-serif;
+    font-size: 14px;
+    color: #767c7e;
 }

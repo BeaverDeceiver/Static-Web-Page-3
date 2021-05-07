@@ -1,4 +1,5 @@
 .row-1__inner-container {
-    display: table;
-    min-height: 277px;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
 }

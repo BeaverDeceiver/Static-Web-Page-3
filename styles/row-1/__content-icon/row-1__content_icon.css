@@ -1,0 +1,13 @@
+.row-1__content-icon {
+    background: #e84c3d;
+    height: 70px;
+    width: 70px;
+    border-radius: 35px;
+    font-size: 32px;
+    color: #ffffff;
+    text-align: center;
+    display: grid;
+    align-content: center;
+    margin-right: 30px;
+    float: left;
+}
