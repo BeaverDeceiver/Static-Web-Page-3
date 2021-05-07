@@ -1,15 +1,17 @@
-.secondary-navigation__item{
+.secondary-navigation__item {
     display: inline-block;
+
     font-size: 14px;
 }
 
-.secondary-navigation__item::after{
+.secondary-navigation__item::after {
     margin: 0 15px;
+
     content: "/";
+
     color: #545a5c;
 }
 
-.secondary-navigation__item:last-child::after{
+.secondary-navigation__item:last-child::after {
     content: none;
 }
-  

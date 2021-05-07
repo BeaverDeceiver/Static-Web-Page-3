@@ -2,7 +2,8 @@
 @import url(__reference-link/copyright__reference-link.css);
 
 .copyright {
+    color: #767c7e;
+
     font-size: 14px;
     line-height: 24px;
-    color: #767c7e;
 }

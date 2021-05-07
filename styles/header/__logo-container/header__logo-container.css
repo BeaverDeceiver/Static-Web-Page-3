@@ -1,4 +1,5 @@
-.header__logo-container{
+.header__logo-container {
     display: table-cell;
+
     vertical-align: middle;
 }

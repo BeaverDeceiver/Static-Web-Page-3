@@ -1,5 +1,6 @@
 .row-1__inner-container {
     display: flex;
-    justify-content: space-between;
+
     align-content: center;
+    justify-content: space-between;
 }
