@@ -10,10 +10,18 @@
 @import url(row-1/row-1.css);
 @import url(banner/banner.css);
 
+body {
+    background: url(../assets/background/banner-background_59.png), #666155;
+}
+
+html {
+  scrollbar-width: none;
+}
+
 /* layout.css */
 .container{
   width: 1170px;
-  margin: 0 auto;
+  margin: 0 auto; 
 }
 
 .clear-fix::after{
