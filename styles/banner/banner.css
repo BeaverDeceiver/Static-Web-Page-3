@@ -4,9 +4,9 @@
 @import url(__caption/banner__caption.css);
 @import url(__caption-link/banner__caption-link.css);
 @import url(__caption-text/banner__caption-text.css);
+@import url(__content-container/banner__content-containerc.css);
 
 .banner {
-    min-height: 580px;
-    background: url(../../assets/background/banner-background_59.png), #666155;
+    height: 560px;
     font-family: "Fjalla One", sans-serif;
 }

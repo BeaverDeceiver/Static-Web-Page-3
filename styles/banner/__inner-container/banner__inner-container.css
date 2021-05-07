@@ -1,4 +1,4 @@
-.banner__inner-container.css {
-    /* allign to bottom */
-    margin-bottom: 63px;
+.banner__inner-container {
+    display: table;
+    height: 100%;
 }

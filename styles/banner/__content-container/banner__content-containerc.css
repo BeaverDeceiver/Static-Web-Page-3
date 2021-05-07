@@ -1,0 +1,5 @@
+.banner__content-container {
+    display: table-cell;
+    vertical-align: bottom;
+    padding-bottom: 63px;
+}
