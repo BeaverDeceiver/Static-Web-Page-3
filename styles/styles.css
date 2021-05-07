@@ -11,7 +11,7 @@
 @import url(banner/banner.css);
 
 body {
-    background: url(../assets/background/banner-background_59.png), #666155;
+    background: url(../assets/background/banner-background_59.png) no-repeat, #666155;
 }
 
 html {
