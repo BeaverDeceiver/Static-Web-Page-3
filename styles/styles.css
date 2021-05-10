@@ -7,15 +7,26 @@
 @import url(copyright/copyright.css);
 @import url(social-links/social-links.css);
 @import url(fonts.css);
+@import url(banner/banner.css);
+@import url(row-1/row-1.css);
 
-/* layout.css */
-.container{
-  width: 1170px;
-  margin: 0 auto;
+body {
+    background: url(../assets/background/banner-background_59.png) no-repeat, #666155;
 }
 
-.clear-fix::after{
-  display: table;
-  clear: both;
-  content: "";
+html {
+    scrollbar-width: none;
+}
+
+/* layout.css */
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.clear-fix::after {
+    display: table;
+    clear: both;
+
+    content: "";
 }
