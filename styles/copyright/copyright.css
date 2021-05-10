@@ -1,9 +1,20 @@
-@import url(__designer-link/copyright__designer-link.css);
-@import url(__reference-link/copyright__reference-link.css);
-
 .copyright {
     color: #767c7e;
 
     font-size: 14px;
     line-height: 24px;
+}
+
+.copyright__designer-link {
+    text-decoration: none;
+
+    color: #e84c3d;
+}
+
+.copyright__reference-link,
+.copyright__reference-link:visited,
+.copyright__reference-link:active {
+    text-decoration: none;
+
+    color: #767c7e;
 }

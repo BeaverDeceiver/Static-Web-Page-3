@@ -1,13 +1,49 @@
-@import url(__arrow-item/banner__arrow-item.css);
-@import url(__arrow-list/banner__arrow-list.css);
-@import url(__inner-container/banner__inner-container.css);
-@import url(__caption/banner__caption.css);
-@import url(__caption-link/banner__caption-link.css);
-@import url(__caption-text/banner__caption-text.css);
-@import url(__content-container/banner__content-containerc.css);
-
 .banner {
     height: 560px;
 
     font-family: "Fjalla One", sans-serif;
+}
+
+.banner__inner-container {
+    display: table;
+
+    height: 100%;
+}
+
+.banner__content-container {
+    display: table-cell;
+
+    padding-bottom: 63px;
+
+    vertical-align: bottom;
+}
+
+.banner__arrow-item {
+    display: table-cell;
+}
+
+.banner__arrow-list {
+    margin: 0 0 30px;
+}
+
+.banner__caption-link {
+    margin: 21px 0;
+
+    text-decoration: none;
+    letter-spacing: 1px;
+
+    color: #e84c3d;
+
+    font-size: 15px;
+}
+
+.banner__caption-text {
+    margin: 21px 0;
+
+    letter-spacing: 2px;
+    text-transform: uppercase;
+
+    color: #e7e7e7;
+
+    font-size: 31px;
 }
