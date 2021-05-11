@@ -1,0 +1,117 @@
+.row-3 {
+  background-color: #ffffff;
+  color: #ffffff;
+}
+
+.row-3__inner-container {
+  border-radius: 10px;
+  background-color: #e84c3d;
+  height: 187px;
+  display: flex;
+  align-content: center;
+  justify-content: space-between;
+}
+
+.row-3__testimonial-container {
+  padding-top: 49px;
+  padding-left: 30px;
+  flex: 1;
+}
+
+.row-3__testimonial-icon {
+  display: inline grid;
+  float: left;
+  width: 69px;
+  height: 70px;
+  margin-right: 28px;
+
+  text-align: center;
+
+  color: #ffffff;
+  border-radius: 35px;
+  background: #202628;
+
+  font-size: 32px;
+
+  align-content: center;
+}
+
+.row-3__header {
+  text-transform: uppercase;
+  font-family: "Fjalla One", sans-serif;
+  font-size: 21px;
+  letter-spacing: 1px;
+}
+
+.row-3__testimonial-header {
+  padding-bottom: 18px;
+}
+
+.row-3__testimonial-paragraph {
+  display: table;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: "Lato", sans-serif;
+}
+
+.row-3__subscribe-container {
+  padding-top: 49px;
+  margin-left: 30px;
+  padding-right: 30px;
+  flex: 1;
+}
+
+.row-3__testimonial-author {
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  font-style: italic;
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
+
+.row-3__subscribe-header {
+  padding-bottom: 30px;
+}
+
+.row-3__email-input {
+  border-radius: 20px;
+  width: 380px;
+  padding-top: 13px;
+  padding-bottom: 12px;
+  background-color: #ffffff;
+  border-style: none;
+  padding-left: 19px;
+  flex: 1;
+}
+
+.row-3__email-input::placeholder {
+  font-size: 14px;
+  color: #9faaad;
+  font-style: italic;
+  font-family: "Lato";
+}
+
+.row-3__email-input:focus {
+  outline: none;
+}
+
+.row-3__subscribe-button {
+  text-transform: uppercase;
+  font-size: 15px;
+  letter-spacing: 1px;
+  color: #ffffff;
+  font-family: "Fjalla One";
+  text-align: center;
+  padding-right: 20px;
+  padding-left: 22px;
+  padding-top: 12px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  background-color: #202628;
+  border-style: none;
+}
+
+.row-3__subscribe-button:hover {
+  background-color: #333d40;
+}
