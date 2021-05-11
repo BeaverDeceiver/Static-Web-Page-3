@@ -2,16 +2,34 @@
 @import url(header/header.css);
 @import url(primary-logo/primary-logo.css);
 @import url(primary-navigation/primary-navigation.css);
+@import url(footer/footer.css);
+@import url(secondary-navigation/secondary-navigation.css);
+@import url(copyright/copyright.css);
+@import url(social-links/social-links.css);
+@import url(fonts.css);
+@import url(banner/banner.css);
+@import url(row-1/row-1.css);
+
+@import url(row-3/row-3.css);
+
+body {
+  background: url(../assets/background/banner-background_59.png) no-repeat,
+    #666155;
+}
+
+html {
+  scrollbar-width: none;
+}
 
 /* layout.css */
-.container{
-  width: 1168px;
+.container {
+  width: 1170px;
   margin: 0 auto;
 }
 
-.clear-fix::after{
+.clear-fix::after {
   display: table;
   clear: both;
+
   content: "";
 }
-

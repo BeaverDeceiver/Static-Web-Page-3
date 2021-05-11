@@ -1,0 +1,23 @@
+.secondary-navigation__item {
+    display: inline-block;
+
+    font-size: 14px;
+}
+
+.secondary-navigation__item::after {
+    margin: 0 15px;
+
+    content: "/";
+
+    color: #545a5c;
+}
+
+.secondary-navigation__item:last-child::after {
+    content: none;
+}
+
+.secondary-navigation__link {
+    text-decoration: none;
+
+    color: #e7e7e7;
+}
