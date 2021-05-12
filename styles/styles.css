@@ -6,6 +6,7 @@
 @import url(row-1/row-1.css);
 @import url(row-2/row-2.css);
 @import url(row-3/row-3.css);
+@import url(row-4/row-4.css);
 
 body {
   background: url(../assets/background/banner-background_59.png) no-repeat,
