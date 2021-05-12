@@ -1,19 +1,22 @@
-.header {
-    background: #202628;
+@import url(primary-logo/primary-logo.css);
+@import url(primary-navigation/primary-navigation.css);
 
-    font-family: "Fjalla One", sans-serif;
+.header {
+  background: #202628;
+
+  font-family: "Fjalla One", sans-serif;
 }
 
 .header__inner-container {
-    display: table;
+  display: table;
 }
 
 .header__logo-container {
-    display: table-cell;
+  display: table-cell;
 
-    vertical-align: middle;
+  vertical-align: middle;
 }
 
 .header__navigation-container {
-    float: right;
+  float: right;
 }
