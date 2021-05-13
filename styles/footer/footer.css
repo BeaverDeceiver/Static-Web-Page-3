@@ -3,24 +3,24 @@
 @import url(social-links/social-links.css);
 
 .footer {
-    background: #202628;
+  background: #202628;
 
-    font-family: "Lato", sans-serif;
+  font-family: "Lato", sans-serif;
 }
 
 .footer__content-container {
-    display: table-cell;
+  display: table-cell;
 
-    vertical-align: middle;
+  vertical-align: middle;
 }
 
 .footer__inner-container {
-    display: table;
+  display: table;
 
-    padding-top: 79px;
-    padding-bottom: 81px;
+  padding-top: 79px;
+  padding-bottom: 81px;
 }
 
 .footer__navigation-container {
-    margin-top: -8px;
+  margin-top: -8px;
 }

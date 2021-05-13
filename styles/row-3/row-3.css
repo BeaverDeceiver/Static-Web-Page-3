@@ -24,8 +24,6 @@
 
 .row-3__testimonial-icon {
   display: flex;
-  justify-content: center;
-  align-items: center;
   float: left;
 
   width: 69px;
@@ -41,6 +39,8 @@
   font-size: 32px;
 
   align-content: center;
+  align-items: center;
+  justify-content: center;
 }
 
 .row-3__header {
@@ -112,6 +112,7 @@
 
 .row-3__subscribe-button {
   display: flex;
+
   padding-top: 12px;
   padding-right: 20px;
   padding-bottom: 10px;
@@ -129,8 +130,8 @@
   font-family: "Fjalla One";
   font-size: 15px;
 
-  justify-content: space-between;
   align-items: center;
+  justify-content: space-between;
 }
 
 .row-3__subscribe-button:hover {
@@ -155,5 +156,6 @@
 
 .row-3__button-icon {
   padding-left: 4px;
+
   font-size: 15px;
 }

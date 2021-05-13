@@ -2,21 +2,21 @@
 @import url(primary-navigation/primary-navigation.css);
 
 .header {
-    background: #202628;
+  background: #202628;
 
-    font-family: "Fjalla One", sans-serif;
+  font-family: "Fjalla One", sans-serif;
 }
 
 .header__inner-container {
-    display: table;
+  display: table;
 }
 
 .header__logo-container {
-    display: table-cell;
+  display: table-cell;
 
-    vertical-align: middle;
+  vertical-align: middle;
 }
 
 .header__navigation-container {
-    float: right;
+  float: right;
 }

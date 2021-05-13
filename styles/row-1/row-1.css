@@ -48,9 +48,6 @@
 
 .row-1__content-icon {
   display: flex;
-  justify-content: center;
-  align-items: center;
-
   float: left;
 
   width: 70px;
@@ -66,4 +63,6 @@
   font-size: 32px;
 
   align-content: center;
+  align-items: center;
+  justify-content: center;
 }
