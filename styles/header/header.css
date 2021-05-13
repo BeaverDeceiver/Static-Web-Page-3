@@ -1,3 +1,6 @@
+@import url(primary-logo/primary-logo.css);
+@import url(primary-navigation/primary-navigation.css);
+
 .header {
     background: #202628;
 

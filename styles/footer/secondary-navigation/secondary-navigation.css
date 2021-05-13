@@ -5,7 +5,7 @@
 }
 
 .secondary-navigation__item::after {
-    margin: 0 15px;
+    margin: 0 15.5px;
 
     content: "/";
 

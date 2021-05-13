@@ -23,6 +23,11 @@
     margin-right: 0;
 }
 
+.row-1__text-container {
+    margin-left: 70px;
+    padding-left: 30px;
+}
+
 .row-1__content-header {
     margin-bottom: 20px;
 
@@ -36,8 +41,6 @@
 }
 
 .row-1__content-paragraph {
-    display: flow-root;
-
     hyphens: auto;
 
     line-height: 24px;

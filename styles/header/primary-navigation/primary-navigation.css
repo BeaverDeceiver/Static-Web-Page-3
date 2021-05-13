@@ -1,11 +1,12 @@
-.primary-navigation__item {
+.primary-navigation__item,
+.primary-navigation__item_selected {
     float: left;
 }
 
 .primary-navigation__link {
     display: inline-block;
 
-    padding: 35px 23px 32px;
+    padding: 35px 22px 32px 21px;
 
     text-decoration: none;
     text-transform: uppercase;
@@ -16,6 +17,6 @@
     line-height: 1em;
 }
 
-.state-selected {
+.primary-navigation__item_selected {
     background: #e84c3d;
 }

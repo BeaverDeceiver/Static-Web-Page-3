@@ -1,3 +1,7 @@
+@import url(copyright/copyright.css);
+@import url(secondary-navigation/secondary-navigation.css);
+@import url(social-links/social-links.css);
+
 .footer {
     background: #202628;
 
@@ -13,5 +17,10 @@
 .footer__inner-container {
     display: table;
 
-    min-height: 204px;
+    padding-top: 79px;
+    padding-bottom: 81px;
+}
+
+.footer__navigation-container {
+    margin-top: -8px;
 }
