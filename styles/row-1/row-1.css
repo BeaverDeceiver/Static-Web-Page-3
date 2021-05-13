@@ -46,12 +46,6 @@
   line-height: 24px;
 }
 
-.row-1__content-link {
-  text-decoration: none;
-
-  color: #e84c3d;
-}
-
 .row-1__content-icon {
   display: flex;
   justify-content: center;
