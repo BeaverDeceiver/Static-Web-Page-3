@@ -10,12 +10,15 @@
 
 .footer__content-container {
   display: table-cell;
-
   vertical-align: middle;
 }
 
 .footer__inner-container {
   display: table;
+  padding-top: 79px;
+  padding-bottom: 81px;
+}
 
-  min-height: 204px;
+.footer__navigation-container {
+  margin-top: -8px;
 }
