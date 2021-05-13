@@ -20,8 +20,8 @@
 }
 
 .link {
-  text-decoration: none;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .text-link_orange {
@@ -38,4 +38,8 @@
 
 .button-link_orange:hover {
   background-color: #ea1500;
+}
+
+.separator {
+  color: #e7e7e7;
 }
