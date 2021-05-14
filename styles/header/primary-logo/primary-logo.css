@@ -1,8 +1,12 @@
 .primary-logo {
-    text-decoration: none;
-    text-transform: uppercase;
+  text-decoration: none;
+  text-transform: uppercase;
 
-    color: #e7e7e7;
+  color: #e7e7e7;
 
-    font-size: 25px;
+  font-size: 25px;
+}
+
+.primary-logo:hover {
+  color: #ffffff;
 }

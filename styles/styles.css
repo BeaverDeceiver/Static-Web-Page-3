@@ -1,4 +1,5 @@
 @import url(./reset.css);
+@import url(./common.css);
 @import url(./header/header.css);
 @import url(./footer/footer.css);
 @import url(./fonts.css);
@@ -9,23 +10,23 @@
 @import url(./row-4/row-4.css);
 
 body {
-    background: url(../assets/background/banner-background_59.png) no-repeat,
-    #666155;
+  background: url(../assets/background/banner-background_59.png) no-repeat,
+  #666155;
 }
 
 html {
-    scrollbar-width: none;
+  scrollbar-width: none;
 }
 
 /* layout.css */
 .container {
-    width: 1170px;
-    margin: 0 auto;
+  width: 1170px;
+  margin: 0 auto;
 }
 
 .clear-fix::after {
-    display: table;
-    clear: both;
+  display: table;
+  clear: both;
 
-    content: "";
+  content: "";
 }
